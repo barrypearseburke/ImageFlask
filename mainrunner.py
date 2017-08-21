@@ -30,3 +30,4 @@ if __name__ == '__main__':
     app.run(debug=True)
 #runs on port 5000
 #access by going to 127.0.0.1:5000
+#make post request not get
